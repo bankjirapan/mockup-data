@@ -8,5 +8,28 @@
             "lon": "99.855000",
             "radius": "2"
         }
+    },
+    "rainfall": {
+        "topRainFall": {
+            "station_name": "ทต.ปลายพระยา",
+            "region": "ต.ปลายพระยา อ.ปลายพระยา จ.กระบี่",
+            "time": "21:00 น.",
+            "rain_mm": 75.2
+        }
+    },
+    "weather": {
+        "time": "21:00 น",
+        "max_temp": {
+            "temperature": 39,
+            "location": "ต.แม่พริก อ.แม่พริก จ.ลำปาง"
+        },
+        "min_temp": {
+            "temperature": 21,
+            "location": "ต.ศรีฐาน อ.ภูกระดึง จ.เลย"
+        },
+        "temp_avg": {
+            "speed": 32,
+            "location": "ค่าเฉี่ยประเทศไทย"
+        }
     }
 }
